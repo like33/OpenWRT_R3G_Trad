@@ -25,7 +25,6 @@ src-git oui https://github.com/zhaojh329/oui.git
 src-git video https://github.com/openwrt/video.git
 src-git targets https://github.com/openwrt/targets.git
 src-git oldpackages http://git.openwrt.org/packages.git
-src-link custom /usr/src/openwrt/custom-feed
 src-git lienol https://github.com/Lienol/openwrt-package
 src-git wifidog https://github.com/wifidog/wifidog-gateway.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
